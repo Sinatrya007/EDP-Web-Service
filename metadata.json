@@ -1,0 +1,8 @@
+{
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ],
+  "name": "EDP Web Service",
+  "description": "Mode Developer web milik EDP"
+}
